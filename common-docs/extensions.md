@@ -1,6 +1,6 @@
-# Extensions
+# rizz
 
-## #gallery
+## #skibidi
 
 ## Using Extensions #using
 
